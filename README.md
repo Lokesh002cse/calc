@@ -3,6 +3,7 @@
  This project is includes calculator app using ReactJs and Bootstrap CSS
 
 ### Project Directory :
+```
 
 projects/
 └── calc/
@@ -10,7 +11,7 @@ projects/
         └── components/
             └── calculator.jsx
 
-
+```
 In the components directory, you can run:
 
 ### `npm start`
